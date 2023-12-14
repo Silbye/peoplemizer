@@ -1,0 +1,22 @@
+{
+  "name": "peoplemizer",
+  "version": "1.0.0",
+  "description": "Generate an array of requested size, filled with random people",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Silbye/peoplemizer.git"
+  },
+  "keywords": [
+    "random"
+  ],
+  "author": "Silbye",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Silbye/peoplemizer/issues"
+  },
+  "homepage": "https://github.com/Silbye/peoplemizer#readme"
+}
